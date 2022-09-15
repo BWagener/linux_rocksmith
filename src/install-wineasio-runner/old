@@ -1,2 +1,0 @@
-cp 000-x32unix-000/wineasio.dll.so "$PROTON/lib/wine/i386-unix/wineasio.dll.so"
-cp 000-x64unix-000/wineasio.dll.so "$PROTON/lib64/wine/x86_64-unix/wineasio.dll.so"

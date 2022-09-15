@@ -1,1 +1,0 @@
-(`PIPEWIRE_LATENCY` is only needed for pipewire, but doesn't do any harm on non-pipewire systems.)

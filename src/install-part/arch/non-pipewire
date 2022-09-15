@@ -1,4 +1,0 @@
-If asked, replace `jack`.
-
-```
-sudo pacman -S cadence carla jack2 lib32-jack2 realtime-privileges

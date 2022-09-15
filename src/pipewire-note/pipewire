@@ -1,3 +1,0 @@
-`PIPEWIRE_LATENCY`: Rocksmith needs a sample rate of 48000. 256 refers to the buffer size. This number worked great for me, but you can experiment with others, of course.
-
-000-pipewire-bootup-000

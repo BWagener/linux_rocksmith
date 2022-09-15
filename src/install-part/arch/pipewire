@@ -1,4 +1,0 @@
-I assume that `pipewire` and a session manager (eg. `wireplumber`, or `pipewire-media-session`) is already installed.
-
-```
-sudo pacman -S wine-staging pipewire-alsa pipewire-pulse pipewire-jack lib32-pipewire-jack qpwgraph realtime-privileges pavucontrol

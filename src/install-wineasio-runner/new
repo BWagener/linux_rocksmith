@@ -1,3 +1,0 @@
-000-old-000
-cp 000-x32windows-000/wineasio.dll "$PROTON/lib/wine/i386-windows/wineasio.dll"
-cp 000-x64windows-000/wineasio.dll "$PROTON/lib64/wine/x86_64-windows/wineasio.dll"

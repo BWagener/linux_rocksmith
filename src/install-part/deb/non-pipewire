@@ -1,8 +1,0 @@
-When asked about realtime privileges, select yes with the arrow keys and confirm with enter.
-
-```
-sudo apt-get install apt-transport-https gpgv
-wget https://launchpad.net/~kxstudio-debian/+archive/kxstudio/+files/kxstudio-repos_10.0.3_all.deb
-sudo dpkg -i kxstudio-repos_10.0.3_all.deb
-sudo apt update
-sudo apt install cadence carla wineasio jackd2
